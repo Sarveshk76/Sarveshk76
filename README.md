@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, Its Sarvesh 👋
+### Connect with me
+[<img width="100" alt="image" src="https://user-images.githubusercontent.com/78719645/157891120-b82e0c74-874c-4c5c-a300-ea00f7a3c13d.png">](https://www.linkedin.com/in/sarvesh-kulkarni-786ab8131/)
+[<img width="100" alt="image" src="https://user-images.githubusercontent.com/78719645/157892186-a5d7cedf-8629-4f86-8770-3ee5b8cf1bb4.png">
+](https://api.whatsapp.com/send?phone=918308790289)
+[<img width="100" alt="image" src="https://user-images.githubusercontent.com/78719645/157892480-fc036de9-a47f-4dc0-8829-de060e5743b2.png">
+](https://www.instagram.com/k_sarvesh_/)
 
 <!--
 **Sarveshk76/Sarveshk76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
