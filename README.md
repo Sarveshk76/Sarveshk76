@@ -1,6 +1,8 @@
-### Hi there, Its Sarvesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" >
+### Hi there, Its Sarvesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-[![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarveshk76&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/Sarveshk76/github-readme-stats)
+![Sarvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarveshk76&theme=dark&show_icons=true)
+
+## Holopin Board 
 [![@sarvesh76's Holopin board](https://holopin.me/sarvesh76)](https://holopin.io/@sarvesh76)
 
 ## Skills 
