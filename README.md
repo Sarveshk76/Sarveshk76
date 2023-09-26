@@ -1,7 +1,7 @@
 ### Hi there, Its Sarvesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshk76&show_icons=true&theme=radical)
+![Sarvesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshk76&show_icons=true&theme=radical)
 
 ## Holopin Board 
 [![@sarvesh76's Holopin board](https://holopin.me/sarvesh76)](https://holopin.io/@sarvesh76)
